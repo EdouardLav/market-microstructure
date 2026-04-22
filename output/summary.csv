@@ -1,0 +1,5 @@
+Metric,Value,Detail
+Kyle's Lambda (λ),3.38e-05,"t=7.63, p=2.3e-14, R²=0.447"
+VPIN (mean),0.0941,"95th pctl: 0.1258, 123 high-VPIN events"
+Execution Cost,47.2 bps,"Perm: $169,039 + Temp: $106,279"
+VPIN Adaptation,44.4% risk reduction,Dynamic γ adjustment based on informed trading signal
